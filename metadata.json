@@ -1,0 +1,8 @@
+{
+  "name": "MeetMet - AI Meeting Assistant",
+  "description": "An enterprise-grade AI meeting assistant that transcribes, summarizes, and analyzes meetings using Gemini 3 Pro. Features include action item extraction, sentiment analysis, and a contextual chatbot for querying meeting details.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
